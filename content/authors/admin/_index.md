@@ -3,7 +3,7 @@
 title: Changyo Han
 
 # Name pronunciation (optional)
-name_pronunciation: Changyo Han
+# name_pronunciation: Changyo Han
 
 # Full name (for SEO)
 first_name: Changyo
@@ -54,7 +54,7 @@ education:
   - area: PhD in Information Science and Technology
     institution: The University of Tokyo
     date_start: 2017-04-01
-    date_end: 2020-3-31
+    date_end: 2020-03-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
