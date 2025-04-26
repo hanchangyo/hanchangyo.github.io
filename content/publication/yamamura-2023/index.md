@@ -1,0 +1,26 @@
+---
+title: Sensor and sensor manufacturing method
+authors:
+- Ryosuke Yamamura
+- Yasuaki Kakehi
+- Changyo Han
+- Rei Sakura
+- Keisuke Watanabe
+date: '2023-01-01'
+publishDate: '2025-04-26T15:45:28.464958Z'
+publication_types:
+- patent
+abstract: 'A sensor includes: a sensor section including a conductive structure made
+  up of a three-dimensionally continuous unit lattices, each including a plurality
+  of columnar beams; and output connectors that output a resistance value of the sensor
+  section, the resistance value changing at least when the conductive structure is
+  compressed by an external force. A method for manufacturing a sensor includes forming
+  the sensor section by stacking using a 3D printer. The sensor and method for manufacturing
+  the sensor enable the adjustment of the repulsive force against compression to an
+  input member and thus appropriately setting the change in resistance value against
+  external force according to the device, in which the sensor is to be incorporated
+  and the mode of use.'
+links:
+- name: URL
+  url: https://patents.google.com/patent/US20230349777A1
+---
