@@ -55,56 +55,73 @@ education:
     institution: The University of Tokyo
     date_start: 2017-04-01
     date_end: 2020-03-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: "Read Thesis"
+    #   url: "https://example.com"
+  - area: ME in Electrical and Electronics Engineering
+    institution: The University of Tokyo
+    date_start: 2011-04-01
+    date_end: 2013-03-31
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BE in Electrical and Electronics Engineering
+    institution: Tokyo Institute of Technology
+    date_start: 2007-04-01
+    date_end: 2011-03-31
+    # summary: |
+    #   GPA: 3.4/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
+  - position: Project Lecturer
+    company_name: The University of Tokyo
+    company_url: "https://www.u-tokyo.ac.jp/"
+    company_logo: utokyo-logo
+    location: Tokyo, Japan
+    date_start: "2024-04-01"
     date_end: ""
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - HCI research
+    description: HCI research
+  - position: Assistant Professor
+    company_name: The University of Tokyo
+    company_url: "https://www.u-tokyo.ac.jp/"
+    company_logo: utokyo-logo
+    location: Tokyo, Japan
+    date_start: "2021-04-01"
+    date_end: "2024-03-31"
+    description: HCI research
+    summary: |
+      - HCI research
+  - position: JSPS Research Fellow (PD)
+    company_name: The University of Tokyo
+    company_url: "https://www.u-tokyo.ac.jp/"
+    company_logo: utokyo-logo
+    location: Tokyo, Japan
+    date_start: "2020-04-01"
+    date_end: "2021-03-31"
+    summary: |
+      - HCI research
+  - position: Researcher
+    company_name: Electronics and Telecommunications Institute
+    company_url: "https://www.etri.re.kr"
+    company_logo: etri-logo
+    location: Daejeon, Korea
+    date_start: "2013-04-01"
+    date_end: "2016-09-01"
+    summary: |
+      - space-division-multiplexed (SDM) optical communication systems
+      - access network for mobile base stations
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -112,41 +129,53 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ""
-        percent: 80
+        description: "Signal processing, GUI programming"
+        percent: 100
         icon: code-bracket
-      - name: Data Science
-        description: ""
-        percent: 100
+      - name: C++
+        description: "Mostly use for microcontroller programming"
+        percent: 90
+        icon: code-bracket
+      - name: Unity
+        description: "Simple VR apps"
+        percent: 50
         icon: chart-bar
-      - name: SQL
-        description: ""
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: "#eeac02"
-    color_border: "#f0bf23"
-    items:
-      - name: Hiking
-        description: ""
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ""
+      - name: Autodesk Fusion
+        description: "Modeling for 3D printing"
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ""
+        icon: cube
+      - name: Rhinoceros + Grasshopper
+        description: "Parametric modeling"
+        percent: 100
+        icon: cube
+      - name: MATLAB
+        description: "Digital signal processing"
         percent: 80
-        icon: camera
+        icon: circle-stack
+  # - name: Hobbies
+  #   color: "#eeac02"
+  #   color_border: "#f0bf23"
+  #   items:
+  #     - name: Hiking
+  #       description: ""
+  #       percent: 60
+  #       icon: person-simple-walk
+  #     - name: Cats
+  #       description: ""
+  #       percent: 100
+  #       icon: cat
+  #     - name: Photography
+  #       description: ""
+  #       percent: 80
+  #       icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 95
+  - name: Japanese
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
