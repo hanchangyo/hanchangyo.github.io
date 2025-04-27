@@ -24,6 +24,12 @@ url_slides: ""
 # url_video: 'https://www.youtube.com/watch?v=FkyvUeFKthI&t=25s&ab_channel=NaemuraLab'
 # url_video: 'https://www.youtube.com/watch?v=6VdWCQJPeLo&t=2s&ab_channel=NaemuraLab'
 url_video: "https://www.youtube.com/watch?v=PptR1Yc5paA&ab_channel=ACMSIGCHI"
+
+links:
+  - name: URL
+    url: https://dl.acm.org/doi/10.1145/3706598.3713440
+
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -61,4 +67,7 @@ of corobos in enhancing user environments.
 
 ## Publications
 
-<!-- ## Videos -->
+- [**corobos: A Design for Mobile Robots Enabling Cooperative Transitions between Table and Wall Surfaces** (CHI 2025)](/publication/han-corobos-2025/)
+- [**corobos plus: 卓上・壁面・天井の間を移行する群ロボット** (インタラクション 2024)](/publication/moriumura-2024/)
+- [**Demonstrating Swarm Robots Capable of Cooperative Transitioning between Table and Wall** (UIST 2023 Adjunct Proceedings)](/publication/han-2023/)
+- [**卓上と壁の間を移行する群ロボット corobos におけるアタッチメントの改良** (インタラクション 2023)](/publication/corobos-2023-interaction/)
