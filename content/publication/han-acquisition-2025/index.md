@@ -1,21 +1,22 @@
 ---
 title: Acquisition and Visualization of HVAC Data by Autonomous Mobile Robots
 authors:
-- Changyo Han
-- Cedric Caremel
-- Keiichiro Taniguchi
-- Hiroaki Murakami
-- Katsuya Koike
-- Koki Higashioka
-- Yoshihisa Toshima
-- Yasunori Akashi
-- Yoshihiro Kawahara
-date: '2025-01-01'
-publishDate: '2025-04-26T15:45:28.509653Z'
+  - Changyo Han
+  - Cedric Caremel
+  - Keiichiro Taniguchi
+  - Hiroaki Murakami
+  - Katsuya Koike
+  - Koki Higashioka
+  - Yoshihisa Toshima
+  - Yasunori Akashi
+  - Yoshihiro Kawahara
+date: "2025-01-01"
+publishDate: "2025-04-26T15:45:28.509653Z"
 publication_types:
-- paper-conference
-publication: '*Proceedings of the 30th CAADRIA Conference*'
-abstract: The monitoring of indoor HVAC data is critical in smart buildings to optimize
+  - paper-conference
+publication: "*Proceedings of the 30th CAADRIA Conference*"
+abstract:
+  The monitoring of indoor HVAC data is critical in smart buildings to optimize
   energy use and maintain thermal comfort. Conventional stationary sensor systems
   face challenges in capturing data from elevated or diverse spatial points, limiting
   their ability to provide comprehensive volumetric data. These systems also lack
@@ -32,6 +33,8 @@ abstract: The monitoring of indoor HVAC data is critical in smart buildings to o
   approach offers significant advantages over stationary systems, presenting a cost-effective
   and flexible alternative for indoor environmental monitoring.
 links:
-- name: URL
-  url: https://papers.cumincad.org/cgi-bin/works/paper/caadria2025_244
+  - name: URL
+    url: https://papers.cumincad.org/cgi-bin/works/paper/caadria2025_244
+
+featured: true
 ---

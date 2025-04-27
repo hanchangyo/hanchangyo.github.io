@@ -34,8 +34,8 @@ tags:
   - Computer Science - Human-Computer Interaction
   - Computer Science - Robotics
 
-url_pdf: ""
-# url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+url_pdf: "project/corobos/corobos_chi2025.pdf"
+url_code: "https://github.com/hanchangyo/corobos"
 # url_dataset: "https://github.com/HugoBlox/hugo-blox-builder"
 url_poster: ""
 url_project: "/project/corobos"
@@ -45,5 +45,5 @@ url_video: "https://www.youtube.com/watch?v=FkyvUeFKthI&ab_channel=NaemuraLab"
 
 links:
   - name: URL
-    url: http://arxiv.org/abs/2502.17868
+    url: https://dl.acm.org/doi/10.1145/3706598.3713440
 ---
