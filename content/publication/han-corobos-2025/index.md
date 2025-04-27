@@ -31,8 +31,8 @@ abstract:
 featured: true
 
 tags:
-  - Computer Science - Human-Computer Interaction
-  - Computer Science - Robotics
+  # - Computer Science - Human-Computer Interaction
+  # - Computer Science - Robotics
 
 url_pdf: "project/corobos/corobos_chi2025.pdf"
 url_code: "https://github.com/hanchangyo/corobos"

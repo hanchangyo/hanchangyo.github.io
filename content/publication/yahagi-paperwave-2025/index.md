@@ -29,7 +29,7 @@ abstract:
   highlight the importance of considering listener interaction with their environment
   when designing document-to-audio systems.
 tags:
-  - Computer Science - Human-Computer Interaction
+  # - Computer Science - Human-Computer Interaction
 links:
   - name: URL
     url: http://arxiv.org/abs/2410.15023
