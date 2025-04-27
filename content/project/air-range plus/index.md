@@ -1,12 +1,12 @@
 ---
-title: 'AIR-range Plus'
+title: "AIR-range Plus"
 summary: Interactive tabletop mid-air imaging system using mobile robots
 tags:
-  - MediaTech
-date: '2024-03-07T00:00:00Z'
+  - Mid-air imaging
+date: "2024-03-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: ""
 
 image:
   caption: AIR-range Plus
@@ -19,9 +19,8 @@ links:
   #   url: https://twitter.com/georgecushen
 # url_code: 'https://github.com/hanchangyo/pneumodule'
 # url_pdf: 'project/colorchange/colorchange.pdf'
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=6HFz_H9z-v0&t=1s&ab_channel=NaemuraLab'
-
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=6HFz_H9z-v0&t=1s&ab_channel=NaemuraLab"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

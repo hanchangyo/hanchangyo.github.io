@@ -35,11 +35,9 @@ sections:
       title: "📚 My Research"
       subtitle: ""
       text: |-
-        Ue this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a HCI researcher at the University of Tokyo. My main research interests are about how people make and handle physical interfaces for interaction.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        Please reach out to collaborate!
     design:
       columns: "1"
   - block: collection
@@ -53,16 +51,16 @@ sections:
     design:
       view: article-grid
       columns: 2
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:

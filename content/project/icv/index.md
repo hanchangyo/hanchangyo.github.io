@@ -1,12 +1,12 @@
 ---
-title: 'Imperceptible Screen-Camera Communication'
-summary: 'Reception of imperceptible QR codes with smartphone cameras'
+title: "Imperceptible Screen-Camera Communication"
+summary: "Reception of imperceptible QR codes with smartphone cameras"
 tags:
-  - MediaTech
-date: '2022-10-27T00:00:00Z'
+  - Imperceptible color vibration
+date: "2022-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: ""
 
 image:
   caption: Reception of imperceptible QR codes with dual camera setup
@@ -17,11 +17,10 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: 'publication/kakui-2022/UIST2022_DualCamera'
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=cc6YGRwLlYY&ab_channel=NaemuraLab'
-
+url_code: ""
+url_pdf: "publication/kakui-2022/UIST2022_DualCamera"
+url_slides: ""
+url_video: "https://www.youtube.com/watch?v=cc6YGRwLlYY&ab_channel=NaemuraLab"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

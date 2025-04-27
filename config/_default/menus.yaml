@@ -5,23 +5,23 @@
 
 main:
   - name: Home
-    url: "/"
+    url: /
     weight: 10
-  - name: Publications
-    url: "#papers/"
+  - name: Papers
+    url: /#papers
     weight: 11
   # - name: Talks
-  # url: /#talks
-  # weight: 12
+  #   url: /#talks
+  #   weight: 12
   # - name: News
-  # url: /#news
-  # weight: 13
-  - name: Project
-    url: "projects/"
-    weight: 20
+  #   url: /#news
+  #   weight: 13
   - name: Experience
-    url: "experience/"
+    url: experience/
     weight: 30
+  - name: Projects
+    url: projects/
+    weight: 20
   # - name: Teaching
   #   url: teaching/
   #   weight: 40

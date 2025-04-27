@@ -1,13 +1,13 @@
 ---
-title: 'corobos'
+title: "corobos"
 summary: A design for mobile robots that cooperatively transition between perpendicular surfaces
 tags:
   - TUIs
   - Robots
-date: '2023-03-06T00:00:00Z'
+date: "2025-04-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: ""
 
 image:
   caption: corobos
@@ -18,13 +18,12 @@ links:
   #   icon_pack: fab
   #   name: Follow
   #   url: https://twitter.com/georgecushen
-# url_code: 'https://github.com/hanchangyo/forcestamps'
-# url_pdf: 'publication/han-2020-force-stamps/forcestamps/ForceStamps_TEI2020_distribution.pdf'
-url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=FkyvUeFKthI&t=25s&ab_channel=NaemuraLab'
-url_video: 'https://www.youtube.com/watch?v=6VdWCQJPeLo&t=2s&ab_channel=NaemuraLab'
-
-
+url_pdf: "project/corobos/corobos_chi2025.pdf"
+url_code: "https://github.com/hanchangyo/corobos"
+url_slides: ""
+# url_video: 'https://www.youtube.com/watch?v=FkyvUeFKthI&t=25s&ab_channel=NaemuraLab'
+# url_video: 'https://www.youtube.com/watch?v=6VdWCQJPeLo&t=2s&ab_channel=NaemuraLab'
+url_video: "https://www.youtube.com/watch?v=PptR1Yc5paA&ab_channel=ACMSIGCHI"
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -33,4 +32,33 @@ url_video: 'https://www.youtube.com/watch?v=6VdWCQJPeLo&t=2s&ab_channel=NaemuraL
 # slides: example
 ---
 
-corobos is a proof of concept research for the design that enables two-wheeled mobile robots to cooperatively transition between perpendicular surfaces.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/PptR1Yc5paA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/FkyvUeFKthI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; margin-bottom: 20px;">
+  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/6VdWCQJPeLo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Abstract
+
+Swarm User Interfaces allow dynamic arrangement of user environments through
+the use of multiple mobile robots, but their operational range is typically confined
+to a single plane due to constraints imposed by their two-wheel propulsion systems.
+We present corobos, a proof-of-concept design that enables these robots to cooperatively
+transition between table (horizontal) and wall (vertical) surfaces seamlessly, without
+human intervention. Each robot is equipped with a uniquely designed slope structure
+that facilitates smooth rotation when another robot pushes it toward a target surface.
+Notably, this design relies solely on passive mechanical elements, eliminating the
+need for additional active electrical components. We investigated the design parameters
+of this structure and evaluated its transition success rate through experiments.
+Furthermore, we demonstrate various application examples to showcase the potential
+of corobos in enhancing user environments.
+
+## Publications
+
+<!-- ## Videos -->
