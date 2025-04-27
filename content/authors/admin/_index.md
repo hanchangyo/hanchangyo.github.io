@@ -182,31 +182,62 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: "2023-11-25"
-    awarder: Coursera
-    icon: coursera
+  - title: "Interactive Presentation Award (participant vote) x 2"
+    url: https://www.interaction-ipsj.org/2024/award/
+    date: "2024-03-25"
+    awarder: IPSJ Interaction 2024
+    icon:
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
+      Recognized for innovative interactive presentations (corobos plus and AIR-range Plus)
+  - title: "Interactive Presentation Award (participant vote)"
+    url: https://www.interaction-ipsj.org/2023/award/
+    date: "2023-03-25"
+    awarder: IPSJ Interaction 2023
+    icon:
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: "Object-Oriented Programming in R"
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: "2023-01-21"
-    awarder: datacamp
-    icon: datacamp
+      Recognized for innovative interactive presentations (corobos)
+  - title: "MVE Award"
+    url:
+    date: "2021-11-15"
+    awarder: MVE2021
+    icon:
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Awarded for contributions to Media Experience Virtual Environments.
+  - title: "CHI'20@CHI’21 People’s Choice Best Demo Honorable Mention Award"
+    url: https://chi2021.acm.org/
+    date: "2021-05-10"
+    awarder: CHI2021
+    icon:
+    summary: |
+      Honored for an outstanding demo presentation at CHI 2021.
+  - title: "Honorable Mention Award"
+    url: https://chi2020.acm.org/
+    date: "2020-04-25"
+    awarder: CHI2020
+    icon:
+    summary: |
+      Recognized for significant contributions to HCI research. (top 5%)
+  - title: "Interactive Presentation Award (participant vote)"
+    url: https://www.interaction-ipsj.org/proceedings/2020/
+    date: "2020-03-25"
+    awarder: IPSJ Interaction 2020
+    icon:
+    summary: |
+      Acknowledged for engaging interactive presentations.
+  - title: "Interactive Presentation Award (PC recommendation)"
+    url: https://www.interaction-ipsj.org/proceedings/2020/
+    date: "2020-03-25"
+    awarder: IPSJ Interaction 2020
+    icon:
+    summary: |
+      Recognized for outstanding presentations recommended by the program committee.
+  - title: Best Paper Award
+    url: https://tei.acm.org/2020/
+    date: "2020-02-10"
+    awarder: TEI2020
+    icon:
+    summary: |
+      Awarded for the best paper at TEI 2020.
 ---
 
 ## About Me
