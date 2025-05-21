@@ -237,7 +237,7 @@ awards:
     awarder: TEI2020
     icon:
     summary: |
-      Awarded for the best paper at TEI 2020.
+      Awarded for the best paper at TEI 2020. (top 1)
 ---
 
 ## About Me
